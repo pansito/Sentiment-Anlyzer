@@ -13,10 +13,10 @@ from tweepy import OAuthHandler
 import socket
 import json
 import Spark
-consumer_key='5bKK8mm1aZtWZXYGkkFXk3fCa'
-consumer_secret='06FhMi5M6hBw2EkeuUlP2rdpY97QwYLwuWGbv0ltrrDay7YAeG'
-access_token ='1149096225125339137-mESz8GDqwayN0nEdIYUfw8HQFeSMNj'
-access_secret='3t9CY7bIPrqBNCuxjYt6uZ372FRNZd5AUwC1cg9YmrOoE'
+consumer_key=''
+consumer_secret=''
+access_token =''
+access_secret=''
 
 
 class TweetsListener(Stream):
